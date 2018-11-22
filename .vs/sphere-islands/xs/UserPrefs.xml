@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E9E94481-3B0A-642E-082A-4709D87FD1CB}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LerpPageFreely_New.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LerpPageFreely_New.cs" Line="23" Column="5" />
+      <File FileName="Assets/Resources/story-little match girl.txt" Line="1" Column="989" />
+      <File FileName="Assets/Scripts/AnimationEffects.cs" Line="28" Column="20" />
+      <File FileName="Assets/Scripts/LoadTextToPage.cs" Line="21" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
